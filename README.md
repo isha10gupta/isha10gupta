@@ -5,14 +5,14 @@ Welcome to my GitHub! I'm a passionate **Computer Science and Engineering** stud
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 💻 **Interests**: Software Development, Data Structures & Algorithms, Web Development
 - 🌱 **Currently Learning**: React, DSA, Cloud Computing, Operating Systems
 
 ---
 
-## 🔧 Skills
+## Skills
 
 - **Languages**: Python, Java, C, HTML/CSS, JavaScript, SQL, C++
 - **Technologies**: AngularJS, MySQL, MongoDB (Beginner)
