@@ -2,6 +2,7 @@
 
 Welcome to my GitHub! I'm a passionate **Computer Science and Engineering** student exploring the world of software development, algorithms, and machine learning. Below you'll find my projects and learning journey.
 
+
 ---
 
 ## 🚀 About Me
@@ -17,7 +18,11 @@ Welcome to my GitHub! I'm a passionate **Computer Science and Engineering** stud
 - **Technologies**: AngularJS, MySQL, MongoDB (Beginner)
 
 ---
-
+while (alive) {
+                   code++; 
+                   chai++; 
+} ☕💻
+---
 ## 🤝 Let's Connect
 
 - 📧 **Email**: [ishag1005@gmail.com](mailto:ishag1005@gmail.com)
