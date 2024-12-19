@@ -18,10 +18,10 @@ Welcome to my GitHub! I'm a passionate **Computer Science and Engineering** stud
 - **Technologies**: AngularJS, MySQL, MongoDB (Beginner)
 
 ---
-while (alive) {
-                   code++; 
-                   chai++; 
-} ☕💻
+- while (alive) {
+-                    code++; 
+                     chai++; 
+- } ☕💻
 ---
 ## 🤝 Let's Connect
 
